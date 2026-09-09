@@ -13,19 +13,24 @@ An end-to-end, production-style **Retrieval-Augmented Generation (RAG)** custome
 
 ## 🎥 Demo Video
 
-> 📌 *Replace this with your actual demo video link once recorded.*
+https://github.com/Eng-Dorira/Egyptian-Telecom-Rag-Assistant/blob/main/docs/Recording%20%238.mp4
 
-[![Watch the demo](docs/screenshots/chat-ui.png)](https://your-demo-video-link-here)
+https://github.com/Eng-Dorira/Egyptian-Telecom-Rag-Assistant/blob/main/docs/Recording%20%237.mp4
 
-*(Click the image above to watch the full walkthrough — architecture explanation, live queries per operator, quick actions, and feedback flow.)*
+https://github.com/Eng-Dorira/Egyptian-Telecom-Rag-Assistant/blob/main/docs/Recording%20%236.mp4
 
 ---
 
 ## 📸 Screenshots
 
-| Chat Interface | Quick Actions & Sources | Feedback & Rating |
-|---|---|---|
-| ![Chat UI](docs/screenshots/chat-ui.png) | ![Quick Actions](docs/screenshots/quick-actions.png) | ![Feedback](docs/screenshots/feedback.png) |
+https://github.com/Eng-Dorira/Egyptian-Telecom-Rag-Assistant/blob/main/docs/Snapshot%20-%20Recording%20%236%20(2%2013.64).png
+
+https://github.com/Eng-Dorira/Egyptian-Telecom-Rag-Assistant/blob/main/docs/Snapshot%20-%20Recording%20%237%20(0%2000.00).png
+
+https://github.com/Eng-Dorira/Egyptian-Telecom-Rag-Assistant/blob/main/docs/Snapshot%20-%20Recording%20%238%20(0%2049.96).png
+
+
+https://github.com/Eng-Dorira/Egyptian-Telecom-Rag-Assistant/blob/main/docs/Snapshot%20-%20Recording%20%238%20(1%2015.08).png
 
 ---
 
