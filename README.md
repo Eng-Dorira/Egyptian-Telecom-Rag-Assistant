@@ -9,7 +9,7 @@ An end-to-end, production-style **Retrieval-Augmented Generation (RAG)** custome
 ![Ollama](https://img.shields.io/badge/Ollama-llama3.2-black)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
----
+---------
 
 ## 🎥 Demo Video
 
